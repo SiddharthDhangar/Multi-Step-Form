@@ -120,16 +120,22 @@ Multi-Step Form/
 ### 1. Clone the repository
 
 ```id="clone123"
-git clone <your-repo-link>
+git clone https://github.com/SiddharthDhangar/Multi-Step-Form.git
 ```
 
-### 2. Install dependencies
+### 2. Go inside folder
+
+```id="folderPath123"
+cd Multi-Step-Form
+```
+
+### 3. Install dependencies
 
 ```id="install123"
 npm install
 ```
 
-### 3. Run the project
+### 4. Run the project
 
 ```id="run123"
 npm run dev
